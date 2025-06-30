@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Focusing on video and speech large generation model."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Jinyao Nan (南锦瑶)"
+description              : "Focus on robots, artificial intelligence and numerical simulation.An outstanding master's graduate from Tsinghua University, with the highest grade in the major. Doctor of the President's Scholarship of the National University of Singapore."
+repository               : "nanjinyao/nanjinyao.github.io
 google_scholar_stats_use_cdn : true
 
 # google analytics
