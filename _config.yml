@@ -1,162 +1,141 @@
-# Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# This file contains configuration flags to customize your site
+#
 
-# Site Settings
-title                    : "Jinyao Nan (南锦瑶)"
-description              : "Focus on robots, artificial intelligence and numerical simulation.An outstanding master's graduate from Tsinghua University, with the highest grade in the major. Doctor of the President's Scholarship of the National University of Singapore."
-repository               : "nanjinyao/nanjinyao.github.io
-google_scholar_stats_use_cdn : true
+# Name of your site (displayed in the header)
+title: Jinyao Nan's Homepage
 
-# google analytics
-google_analytics_id      : G-SWFCX99KQZ
+# Short bio or description (displayed in the header)
+description: A modern and responsive academic personal homepage.
 
-# SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+# URL of your avatar or profile pic (you can buy your own domain name)
+avatar: /images/avatar.jpg
 
-# Site Author
-# author: 
-  name             : "Jinyao Nan"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : ""
-  location         : "Singapore"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "nanjinyao@163.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "RayeRen"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: "nanjinyao@163.com"
+  facebook:
+  flickr:
+  github: "nanjinyao"
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
-  - vendor
-  - google_scholar_crawler
-  - github_myprofile_updater
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+# Enter your Disqus shortname for enabling Disqus comments, leave blank to disable
+disqus:
 
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: "https://nanjinyao.github.io"
 
+# If you're hosting your site at a Project repository on GitHub pages
+# (e.g. http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
 
-# Markdown Processing
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+permalink: /:title/
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
 
-# Defaults
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      author_profile: true
-
-
-# Sass/SCSS
+# Set the Sass partials directory, as we're using @imports
 sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: :expanded # You might prefer to minify using :compressed
 
-
-# Outputting
-permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins
+# Use the following plug-ins
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
 
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+# The following keys are configured specially for the academicpages template
+# You can use them in any page layout by calling {{ site.key_name }}
+#
+# The following keys are used to programmatically generate nav items
+# You can override this behavior by creating a _data/navigation.yml file
+# To hide a nav item from the menu, just remove its key from navigation_pages
+navigation_pages:
+  - about.md
+  - publications.md
+  - talks.md
+  - teaching.md
+  - portfolio.md
+  - blog.md
+  - cv.md
+
+# The following keys are used to programmatically generate author metadata
+# For example, in about.md, you can use {{ site.author.name }} to get the author name
+author:
+  name: "Jinyao Nan"
+  avatar: "/images/avatar.jpg"
+  email: "nanjinyao@163.com"
+  github: "nanjinyao"
+  linkedin: "" # Leave empty if you don't have one
+  google_scholar: "" # Please put your Google Scholar ID here
+
+# The following keys are used to programmatically generate SEO metadata
+# You can override this behavior by creating these keys in the front matter of your pages
+seo:
+  meta_og_title: "Jinyao Nan's Homepage"
+  meta_og_type: "website"
+  meta_og_url: "https://nanjinyao.github.io"
+  meta_og_description: "A modern and responsive academic personal homepage."
+  meta_og_image: "/images/preview.png"
+  meta_twitter_card: "summary"
+  meta_twitter_site: "@your_twitter_handle" # Optional: your Twitter handle
+  meta_twitter_creator: "@your_twitter_handle" # Optional: your Twitter handle
+
+# The following keys are used to configure the Favicon
+# You can override this behavior by creating a _data/favicon.yml file
+favicon:
+  path: "/images/favicon-32x32.png"
+
+# The following keys are used to configure the Google Scholar Crawler
+# You can override this behavior by creating a _data/scholar.yml file
+scholar:
+  source: /_data/scholar.yml
+
+# The following keys are used to configure the header
+header:
+  logo: "/images/logo.png"
+  nav_align: "right" # right, left, or center
+
+# The following keys are used to configure the footer
+footer:
+  show_powered_by: true
