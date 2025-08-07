@@ -20,15 +20,15 @@ bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
 baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
-author:
-  name             : "Yi Ren (任意)"
+# author: 
+  name             : "Jinyao Nan"
   avatar           : "images/ry_profile.jpeg"
   bio              : ""
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  email            : "nanjinyao@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
