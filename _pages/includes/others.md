@@ -3,18 +3,19 @@
 * **National University of Singapore (NUS)**, Singapore
   * *QS World University Rankings: **8th***
   * Ph.D. in Engineering, *President's Scholarship & ISEP Scholar* (09/2025 – Present)
-
+    - Supervised by [Prof. T. H. Lee](https://scholar.google.com/citations?user=dP8oLwYAAAAJ&hl=en) and [Dr.Wenyu Liang](https://scholar.google.com/citations?user=cV22ltcAAAAJ&hl=en)
 * **Tsinghua University**, Beijing, China
   * *QS World University Rankings: **14th***; *C9 League Member*
   * Master of Mechanical Engineering, *Institute of Data and Information* (09/2022 – 06/2025)
   * **Ranked 1st / 1215** in major; **Outstanding Graduate (Top 1%)**.
+    - Supervised by [Prof. Pingfa Feng](https://me.tsinghua.edu.cn/info/1097/1576.htm) and [Associate Professor Feng Feng](https://www.sigs.tsinghua.edu.cn/ff/main.htm)
   * Selected for the inaugural Huawei joint training program (Sino-Germany).
 
 * **Harbin Institute of Technology (HIT)**, Harbin, China
   * *U.S. News Best Global Universities for Engineering: **6th***; *C9 League Member*
   * Bachelor of Engineering, *School of Mechatronics Engineering* (09/2018 – 06/2022)
   * **Ranked 1st / 151** in major; **National Scholarship Recipient (Top 1%)**; **Outstanding Graduate (Top 1%)**.
-
+   - Supervised by [Prof. Zhenyu Han](https://homepage.hit.edu.cn/hanzhenyu)
 # 💬 Invited Talks
 * **2025.03**, *Leveraging GNNs for Anomaly Detection in High-Volume Manufacturing*, **Apple**, Internal MQE & Data Science Talk.
 * **2024.07**, *Data-Driven Atomic Skill Libraries for Robotic Manipulation via Vision-Language Models*, **JD.com**, Embodied Intelligence Division Algorithm Sharing Session.
