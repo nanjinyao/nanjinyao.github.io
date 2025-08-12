@@ -17,7 +17,7 @@
         * Validated on extensive datasets from the German Institute and TUM, demonstrating robust generalization and superior performance.
 </div>
 </div>
--->
+
 
 2.  **J. Nan**, P. Feng, J. Xu, F. Feng. (2024). *Advanced Prediction of Microfluidic Flow in Medical Pipelines Using Graph Neural Networks*. International Journal of Numerical Methods for Heat & Fluid Flow. (Under Review)
     * **Highlights:**
