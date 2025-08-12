@@ -1,15 +1,25 @@
-## 🏆 Honors and Awards
+## 🏆 Honors & Scholarships
 
-### International & National Level
-* **Outstanding Paper Award**, ICCSMT 2023 (Sino-Germany) (Top 5%)
-* **National Scholarship**, Ministry of Education of China, 2020 (Top 1%)
-* **Hong Kong Johnson Electric Scholarships**, 2019 & 2021
-* **Annual Project Plan Second Prize**, National Ministry of Industry and Information Technology, 2019
+### International Level
+* **Outstanding Paper Award**, *ICCSMT 2023 (Sino-Germany)* (Top 5%)
+
+### National Level
+* **National Scholarship**, *Ministry of Education of China*, 2020 (Undergraduate, Rank 1/151)
+* **Hong Kong Johnson Electric Scholarship**, 2019 & 2021 (Top 5%)
+* **Annual Project Plan Second Prize**, *National Ministry of Industry and Information Technology*, 2019
+* **Product Manager Certification**, *Shenzhen Institute of Innovation and Entrepreneurship*, 2022
 
 ### University Level
-* **Outstanding Graduate**, Harbin Institute of Technology, 2022 (Top 1%)
-* **Excellent Graduation Thesis**, Harbin Institute of Technology, 2022 (Top 1%)
-* **Comprehensive Second Prize**, Tsinghua University, 2024 (Top 5%)
-* **Huawei Joint training Scholarship**, Shenzhen (Top 10%)
-* **First-Class People's Scholarships**, Harbin Institute of Technology (Awarded six times)
-* **Top Ten Academic Assistance Volunteers**, Harbin Institute of Technology, 2020 & 2021
+* **Comprehensive Second Prize**, *Tsinghua University*, 2024 (Top 5%)
+* **Organization Excellence Award**, *Student Innovation Leader Training Camp, Tsinghua University*, 2022 (Top 1%)
+* **Rural Revitalization Practice Silver Award**, *Tsinghua University*, 2024
+* **Huawei Joint Training Scholarship**, *Shenzhen*, 2024
+* **Outstanding Graduate**, *Harbin Institute of Technology*, 2022 (Top 1%)
+* **Excellent Graduation Thesis**, *Harbin Institute of Technology*, 2022 (Top 1%)
+* **First-Class People's Scholarship**, *Harbin Institute of Technology* (Awarded 6 Times, Top 3%)
+* **Top Ten Academic Assistance Volunteer**, *Harbin Institute of Technology*, 2020 & 2021
+* **Outstanding Youth League Cadre**, *Harbin Institute of Technology*, 2020 & 2022 (Top 3%)
+* **Excellent Student Cadre**, *Harbin Institute of Technology*, 2019 (Top 3%)
+* **Outstanding Student**, *Harbin Institute of Technology*, 2019 (Top 3%)
+* **Excellent Graduation Thesis**, *Huazhong University of Science and Technology*, 2020 (Top 5%)
+* **Award for Voluntary Service in the Fight Against COVID-19**, 2020
