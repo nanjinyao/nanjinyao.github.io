@@ -5,7 +5,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJNMHF 2024</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
    
-- [Efficient modeling of liquid splashing via graph neural networks with adaptive filter and aggregator fusion](https://www.emerald.com/hff/article-abstract/34/6/2513/1236519/Efficient-modeling-of-liquid-splashing-via-graph?redirectedFrom=fulltext)
+[Efficient modeling of liquid splashing via graph neural networks with adaptive filter and aggregator fusion](https://www.emerald.com/hff/article-abstract/34/6/2513/1236519/Efficient-modeling-of-liquid-splashing-via-graph?redirectedFrom=fulltext)
    
 **J. Nan**, P. Feng, J. Xu, F. Feng
 
