@@ -11,7 +11,7 @@
 
 [**Project**]([https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202402811](https://www.emerald.com/hff/article-abstract/34/6/2513/1236519/Efficient-modeling-of-liquid-splashing-via-graph?redirectedFrom=fulltext)) | <strong>SCI Q1, Scopus CiteScore top 10%</strong>
 - International Journal of Numerical Methods for Heat & Fluid Flow, Vol. 34, No. 2, pp. 200-222.
--     * **Highlights:**
+  * **Highlights:**
         * Introduced an innovative GNN framework (FEGNS) to model liquid splashing dynamics with high accuracy and efficiency (AI for Science).
         * Achieved a 30.3% improvement in simulation accuracy and a 51.6% gain in speed compared to traditional CFD methods.
         * Validated on extensive datasets from the German Institute and TUM, demonstrating robust generalization and superior performance.
