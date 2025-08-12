@@ -7,6 +7,19 @@
         * Achieved a 30.3% improvement in simulation accuracy and a 51.6% gain in speed compared to traditional CFD methods.
         * Validated on extensive datasets from the German Institute and TUM, demonstrating robust generalization and superior performance.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHFF 2024</div><img src='/images/splash_gnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient modeling of liquid splashing via graph neural networks with adaptive filter and aggregator fusion](https://www.emerald.com/hff/article-abstract/34/6/2513/1236519/Efficient-modeling-of-liquid-splashing-via-graph?redirectedFrom=fulltext)
+
+**J. Nan**, P. Feng, J. Xu, F. Feng
+
+<strong>SCI-Q1 Journal Paper</strong>
+- Introduced an innovative GNN framework (FEGNS) to model liquid splashing dynamics, improving simulation accuracy by **30.3%** and speed by **51.6%** over traditional CFD methods.
+</div>
+</div>
+
+
 2.  **J. Nan**, P. Feng, J. Xu, F. Feng. (2024). *Advanced Prediction of Microfluidic Flow in Medical Pipelines Using Graph Neural Networks*. International Journal of Numerical Methods for Heat & Fluid Flow. (Under Review)
     * **Highlights:**
         * Proposed a novel GNN approach for predicting microfluidic flow in complex medical pipelines, outperforming traditional CFD methods.
