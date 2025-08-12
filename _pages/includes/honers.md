@@ -1,15 +1,15 @@
-## 🏆 Honors & Scholarships
+# 🏆 Honors & Scholarships
 
-### International Level
+## International Level
 * **Outstanding Paper Award**, *ICCSMT 2023 (Sino-Germany)* (Top 5%)
 
-### National Level
+## National Level
 * **National Scholarship**, *Ministry of Education of China*, 2020 (Undergraduate, Rank 1/151)
 * **Hong Kong Johnson Electric Scholarship**, 2019 & 2021 (Top 5%)
 * **Annual Project Plan Second Prize**, *National Ministry of Industry and Information Technology*, 2019
 * **Product Manager Certification**, *Shenzhen Institute of Innovation and Entrepreneurship*, 2022
 
-### University Level
+## University Level
 * **Comprehensive Second Prize**, *Tsinghua University*, 2024 (Top 5%)
 * **Organization Excellence Award**, *Student Innovation Leader Training Camp, Tsinghua University*, 2022 (Top 1%)
 * **Rural Revitalization Practice Silver Award**, *Tsinghua University*, 2024
