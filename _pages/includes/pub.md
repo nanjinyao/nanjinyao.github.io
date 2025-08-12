@@ -9,12 +9,12 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJNMHF 2024</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Efficient modeling of liquid splashing via graph neural networks with adaptive filter and aggregator fusion](https://www.emerald.com/hff/article-abstract/34/6/2513/1236519/Efficient-modeling-of-liquid-splashing-via-graph?redirectedFrom=fulltext)
+1. [Efficient modeling of liquid splashing via graph neural networks with adaptive filter and aggregator fusion](https://www.emerald.com/hff/article-abstract/34/6/2513/1236519/Efficient-modeling-of-liquid-splashing-via-graph?redirectedFrom=fulltext)
    
 **J. Nan**, P. Feng, J. Xu, F. Feng
 
-[**Project**](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202402811) | <strong>SCI Journal Paper</strong>
-- Advanced Energy Materials, Volume 15, Issue 3, 2025, doi: 10.1002/aenm.202402811
+[**Project**](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202402811) | <strong>SCI Q1, Scopus CiteScore top 10%</strong>
+- International Journal of Numerical Methods for Heat & Fluid Flow, Vol. 34, No. 2, pp. 200-222.
 </div>
 </div>
 <!--
