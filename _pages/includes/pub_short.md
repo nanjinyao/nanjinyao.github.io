@@ -1,4 +1,4 @@
-## 💻 Selected Research Papers
+# 💻 Selected Research Papers
 
 ### Journal Publications
 1.  **J. Nan**, P. Feng, J. Xu, F. Feng. (2024). *Efficient modeling of liquid splashing via graph neural networks with adaptive filter and aggregator fusion*. International Journal of Numerical Methods for Heat & Fluid Flow. (SCI Q1)
@@ -11,3 +11,14 @@
 ### Conference Publications
 5.  **J. Nan**. (2023). *Simulation study of axial ultrasonic vibration micro-milling of TC4 titanium alloy based on ABAQUS*. ICCSMT 2023.
 6.  **J. Nan**. (2023). *Design and Research on Heating System and Hot Bending Process of 3D Glass Bending Machine Using ABAQUS and Particle Swarm Optimization*. ICCSMT 2023.
+
+
+My full paper list is shown at [my personal homepage](https://nanjinyao.github.io).
+
+#### 🎙 Audio and Speech Processing
+
+#### 👄 Talkingface Generation
+
+#### 🎼 Music Generation 
+
+#### 🧑‍🎨 Generative Model
