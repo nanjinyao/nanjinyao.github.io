@@ -9,21 +9,16 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJNMHF 2024</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+   
 1. [Efficient modeling of liquid splashing via graph neural networks with adaptive filter and aggregator fusion](https://www.emerald.com/hff/article-abstract/34/6/2513/1236519/Efficient-modeling-of-liquid-splashing-via-graph?redirectedFrom=fulltext)
    
 **J. Nan**, P. Feng, J. Xu, F. Feng
 
-[**Project**](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202402811) | <strong>SCI Q1, Scopus CiteScore top 10%</strong>
+[**Project**]([https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202402811](https://www.emerald.com/hff/article-abstract/34/6/2513/1236519/Efficient-modeling-of-liquid-splashing-via-graph?redirectedFrom=fulltext)) | <strong>SCI Q1, Scopus CiteScore top 10%</strong>
 - International Journal of Numerical Methods for Heat & Fluid Flow, Vol. 34, No. 2, pp. 200-222.
 </div>
 </div>
-<!--
 
-
-<strong>SCI-Q1 Journal Paper</strong>
-- Introduced an innovative GNN framework (FEGNS) to model liquid splashing dynamics, improving simulation accuracy by **30.3%** and speed by **51.6%** over traditional CFD methods.
-</div>
-</div>
 
 
 2.  **J. Nan**, P. Feng, J. Xu, F. Feng. (2024). *Advanced Prediction of Microfluidic Flow in Medical Pipelines Using Graph Neural Networks*. International Journal of Numerical Methods for Heat & Fluid Flow. (Under Review)
