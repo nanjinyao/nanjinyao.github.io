@@ -1,5 +1,4 @@
-## ACADEMIC RESEARCH
-
+# 📝 Publications 
 ### Papers Published in Journals
 1.  **J. Nan**, P. Feng, J. Xu, F. Feng. (2024). *Efficient modeling of liquid splashing via graph neural networks with adaptive filter and aggregator fusion*. International Journal of Numerical Methods for Heat & Fluid Flow, Vol. 34, No. 2, pp. 200-222. (SCI Q1)
 2.  **J. Nan**, P. Feng, J. Xu, F. Feng. (2024). *Advanced Prediction of Microfluidic Flow in Medical Pipelines Using Graph Neural Networks*. International Journal of Numerical Methods for Heat & Fluid Flow. (Under Review)
@@ -16,3 +15,15 @@
 7.  J. Xu, **J. Nan**, P. Feng, F. Feng. *Physics-Informed Neural Networks for Burr Fracture Prediction in 3D Elastic Structures*. (To be submitted)
 8.  **J. Nan**, J. Xu, P. Feng, F. Feng. *Graph Neural Network-Enhanced Chip Heat Dissipation Simulation for PCB Components with Multi-Phase Solids and Fluids*. (To be submitted)
 9.  *An Atomic Skill Library Construction Method Combined Embodiment VLA and VLP for Industrial Applications*. (To be submitted)
+
+## 🎙 Speech Synthesis
+
+## 👄 TalkingFace & Avatar
+
+## 📚 Machine Translation 
+
+## 🎼 Music & Dance Generation 
+
+## 🧑‍🎨 Generative Model
+
+## Others
