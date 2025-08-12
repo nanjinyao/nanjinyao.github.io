@@ -10,7 +10,7 @@ This pursuit is built on a foundation of consistent academic excellence. I was h
 
 I am actively seeking collaborations and coffee talk🙂👍pportunities, and my research interests include:
 
-- Dexterous hand operation
+- Dexterous hand operation and visual tactile guidance
 - World Model and VLA
 - Reinforcement learning and state estimation
 - Learning based control
