@@ -1,4 +1,4 @@
-Welcome!
+Welcome! '小红书ID'[2600494343](https://www.xiaohongshu.com/user/profile/60a4c030000000000100aa40?xsec_token=YBC3Ny2V-Hgwr6sdVybBkfbzICGv9U0TnuXvZq_HCkdoU%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=60a4c030000000000100aa40&apptime=1755021961&share_id=bb1ce0ec81f04511ae70b6bd5d973315&share_channel=copy_link)
 
 Hello! I am currently a Ph.D in The [Integrated Science and Engineering Project](https://isep.nus.edu.sg/) is at the [National University of Singapore](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6). I am conducting research under the supervision of [Prof.T. H. Lee](https://cde.nus.edu.sg/ece/staff/lee-tong-heng/) in [Lee Group](https://scholar.google.com/citations?user=dP8oLwYAAAAJ&hl=en) and [Dr.Wenyu Liang](https://scholar.google.com/citations?user=cV22ltcAAAAJ&hl=en) ,[Dr.Yan Wu](https://www.a-star.edu.sg/i2r/i2r-profiles/wu-yan)in [A*STAR Institute for Infocomm Research](https://www.a-star.edu.sg/i2r).
 
@@ -15,6 +15,5 @@ I am actively seeking collaborations and coffee talk🙂👍pportunities, and my
 - Reinforcement learning and state estimation
 - Learning based control
 
-If you are interested in my research or potential collaborations, please feel free to contact me via email: nanjinyao@163.com and '小红书'[2600494343](https://www.xiaohongshu.com/user/profile/60a4c030000000000100aa40?xsec_token=YBC3Ny2V-Hgwr6sdVybBkfbzICGv9U0TnuXvZq_HCkdoU%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=60a4c030000000000100aa40&apptime=1755021961&share_id=bb1ce0ec81f04511ae70b6bd5d973315&share_channel=copy_link)
-
+If you are interested in my research or potential collaborations, please feel free to contact me via email: nanjinyao@163.com 😊
 
