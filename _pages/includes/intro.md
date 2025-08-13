@@ -8,7 +8,7 @@ My research philosophy centers on bridging rigorous academic theory with tangibl
 
 This pursuit is built on a foundation of consistent academic excellence. I was honored to be named an **Outstanding Graduate (Top 1%)** and graduate **ranked first** in my grade from both my Master's program at **[Tsinghua University](https://en.wikipedia.org/wiki/Tsinghua_University)** and my undergraduate studies at the **[Harbin Institute of Technology (HIT)](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology)**. Looking forward, I am excited to begin my Ph.D. at the National University of Singapore (NUS) as a scholar of both the prestigious **[NUS President's Scholarship](https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship)** and the **[Hong Kong Government Scholarship](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)**.
 
-I am actively seeking collaborations and coffee talk🙂👍pportunities, and my research interests include:
+I am actively seeking collaborations and coffee talk🙂👍opportunities, and my research interests include:
 
 - Dexterous hand operation and visual tactile guidance
 - World Model and VLA
