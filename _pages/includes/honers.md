@@ -12,6 +12,8 @@
 * **Product Manager Certification**, *Shenzhen Institute of Innovation and Entrepreneurship*, 2022
 
 ## University Level
+* **Outstanding Graduate**, *Tsinghua University*, 2025 (Top 1%,The highest honor for graduates of Tsinghua University)
+* **First Prize in the Professional Practice Category**, *Tsinghua University*, 2025 (Top 1，The highest award in the engineering field for master's students at Tsinghua University)
 * **Comprehensive Second Prize**, *Tsinghua University*, 2024 (Top 5%)
 * **Organization Excellence Award**, *Student Innovation Leader Training Camp, Tsinghua University*, 2022 (Top 1%)
 * **Rural Revitalization Practice Silver Award**, *Tsinghua University*, 2024
