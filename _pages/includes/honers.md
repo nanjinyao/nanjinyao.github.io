@@ -2,10 +2,10 @@
 
 ## International Level
 * **Outstanding Paper Award**, *ICCSMT 2023 (Sino-Germany)* (Top 5%)
+* **Hong Kong Government Scholarship（HKPFS）**, *HK*, 2025 (The highest honor for doctoral students in Hong Kong)
 * **Singapore President Scholarship**, *NUS,Singapore* (Top 1%)
 
 ## National Level
-* **Hong Kong Government Scholarship（HKPFS）**, *HK*, 2025 (The highest honor for doctoral students in Hong Kong)
 * **National Scholarship**, *Ministry of Education of China*, 2020 (Undergraduate, Rank 1/151)
 * **Hong Kong Johnson Electric Scholarship**, 2019 & 2021 (Top 5%)
 * **Annual Project Plan Second Prize**, *National Ministry of Industry and Information Technology*, 2019
