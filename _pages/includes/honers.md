@@ -25,5 +25,4 @@
 * **Outstanding Youth League Cadre**, *Harbin Institute of Technology*, 2020 & 2022 (Top 3%)
 * **Excellent Student Cadre**, *Harbin Institute of Technology*, 2019 (Top 3%)
 * **Outstanding Student**, *Harbin Institute of Technology*, 2019 (Top 3%)
-* **Excellent Graduation Thesis**, *Huazhong University of Science and Technology*, 2020 (Top 5%)
 * **Award for Voluntary Service in the Fight Against COVID-19**, 2020
