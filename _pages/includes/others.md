@@ -3,7 +3,7 @@
 * **National University of Singapore (NUS)**, Singapore
   * *QS World University Rankings: **8th***
   * Ph.D. in Engineering, *President's Scholarship & ISEP Scholar* (09/2025 – Present)
-    - Supervised by [Prof. T. H. Lee](https://scholar.google.com/citations?user=dP8oLwYAAAAJ&hl=en) and [Dr.Wenyu Liang](https://scholar.google.com/citations?user=cV22ltcAAAAJ&hl=en)
+    - Supervised by [Prof. T. H. Lee](https://scholar.google.com/citations?user=dP8oLwYAAAAJ&hl=en) 
 * **Tsinghua University**, Beijing, China
   * *QS World University Rankings: **14th***; *C9 League Member*
   * Master of Mechanical Engineering, *Institute of Data and Information* (09/2022 – 06/2025)
