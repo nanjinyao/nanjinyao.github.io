@@ -1,0 +1,4 @@
+
+/* Sidebar Logos */
+.sidebar-logos { display: flex; gap: 10px; margin-top: 15px; align-items: center; flex-wrap: wrap; }
+.sidebar-logos img { height: 40px; width: auto; border-radius: 4px; }
