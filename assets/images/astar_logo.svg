@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
-  <text x="10" y="45" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="#00539B">a</text>
-  <path d="M45,15 L50,45 L35,45 Z" fill="#EE3124"/> <!-- Star simulation -->
-  <text x="60" y="45" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="#00539B">STAR</text>
-</svg>
