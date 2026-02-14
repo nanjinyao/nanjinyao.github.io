@@ -306,3 +306,59 @@ section {
     height: 26px;
     margin-bottom: 2px;
 }
+
+/* Logo Styling with Tables */
+.invisible-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+    margin-bottom: 8px;
+}
+
+.invisible-table td {
+    padding: 0;
+    border: none;
+    vertical-align: middle;
+}
+
+.logo-cell {
+    width: 45px;
+    /* Fixed width for consistent alignment */
+    padding-right: 15px !important;
+    /* Force padding */
+    text-align: center;
+}
+
+.content-cell {
+    text-align: left;
+}
+
+/* Override previous logo sizing for table cells if needed */
+.inst-logo {
+    max-height: 40px;
+    /* Limit height within cell */
+    max-width: 100%;
+    /* Limit width within cell */
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 4px;
+}
+
+.sidebar-table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.sidebar-logo-cell {
+    width: 60px;
+    padding-right: 10px !important;
+    vertical-align: top;
+}
+
+.sidebar-logo {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
