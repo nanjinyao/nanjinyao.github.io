@@ -25,9 +25,8 @@ git push origin main
 
 if ($?) {
     Write-Host "Successfully deployed!" -ForegroundColor Green
-    Write-Host "Your changes should be live on https://jammynan.github.io/ in a few minutes." -ForegroundColor Green
-} else {
+    Write-Host "Your changes should be live on https://nanjinyao.github.io/ in a few minutes." -ForegroundColor Green
+}
+else {
     Write-Error "Deployment failed. Please check the error messages above."
 }
-
-Pause
