@@ -346,6 +346,28 @@ section {
     border-radius: 4px;
 }
 
+/* Social Icon Styles */
+.social-table td {
+    padding-bottom: 8px;
+    /* Spacing between links */
+}
+
+.social-logo-cell {
+    width: 30px;
+    padding-right: 8px !important;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.social-logo {
+    max-height: 18px;
+    /* Smaller for social icons */
+    max-width: 100%;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
 .sidebar-table {
     width: 100%;
     margin-top: 10px;
