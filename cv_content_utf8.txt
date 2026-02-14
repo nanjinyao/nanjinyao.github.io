@@ -1,0 +1,339 @@
+--- Extracting from CV-NanJinyao-work - 2025.11.7.pdf ---
+1 / 5
+Nan Jinyao
+(Recipients of the Hong Kong Government Scholarship and the President's Scholarship of NUS)
+Gender: Male | DoB: 24-Jan-2000
+Email: nanjinyao@163.com | Tel: (+86) 18909160231 | Web: https://nanjinyao.github.io/
+EDUCATION
+National University of Singapore (QS rank 8)
+ Presidential Scholarship, ISEP Scholar, PhD Student 09 / 2025-
+ Robotic dexterous manipulation and GNN, reinforcement learning, imitation learning(VLA)
+Tsinghua University (QS rank 14; THE rank 16; C9 Alliance)
+ Institute of Data and Information 09 / 2022 – 06 / 2025
+ The first batch of officials selected Huawei for joint training (Sino-Germany,Tao Yuan class system), 2023
+ Jingdong embodied intelligence, Apple supply chain quality management(Cupertino,USA)
+industrialization experience, Singapore Indonesia overseas practice publicity team leader
+ Master of Mechanical engineering with GPA 3.9/4.0 and Rank 1 / 1215
+ Outstanding graduate(1%)，First Prize in the Professional Practice Category, First Place(1 / 1215)
+ Main Courses: Numerical Simulation Technology of Manufacturing (4.0), Literature Review and Thesis Writing
+(4.0), Manufacturing Technology (4.0), Intelligent Manufacturing Technology (4.0), Data Simulation (4.0), Modern
+Control Theory (4.0), etc.
+Harbin Institute of Technology (US news Engineering rank 6; C9 Alliance)
+ School of of Mechatronics Engineering 09 / 2018 – 06 / 2022
+ National Scholarship, 2020 (1/151)，Outstanding graduate(1%)
+ Bachelor of Engineering with GPA 3.96/4.0 and Rank 1 / 151
+ Main Courses: Calculus (94), Algebra and Geometry (94.5), Numerical Analysis (95.2), C++ Programming,
+Signal Testing and Processing (96.3), Heat Transfer (99), Fluid Mechanics (92.7), Mechanics of Materials (99.2),
+Physics (96.5), Chemistry (95), Electromechanical System Control (95.5), Electronic Technology and
+Experiments (93.5), Mechanical System Dynamics (94), Materials and Forming (96.6), Interchangeability and
+Measurement Technology (94), Special Processing (93.4), Mechanical Drawing (94.4), Mechanical Design
+including courses & experiments (98), Mechanical Manufacturing courses (90), Mechanical Principles (97.9), etc
+SKILLS
+IELTS 6.5 (reading 7.0, listening 6.0, writing 6.0, speaking 6.0)
+Algorithm Engineer & Product Manager certification from Huawei & Shenzhen Institute of Innovation and
+Entrepreneurship (Python, MATLAB, Solidworks, AutoCAD, Comsol, ABAQUS, ANSYS, Visio)
+INTERNSHIP& TRAINING
+Scientists at Singapore Agency for Science, Technology and Research Singapore
+ Robotic dexterous manipulation and GNN, reinforcement learning, imitation learning(VLA)
+Joint Training at Huawei Shenzhen ＆ Germany
+Cloud Architecture Lab ＆ German Research Institute 06 / 2023 –
+ Collaborated with Huawei and German researchers on AI-driven simulations, including SPH (Smoothed
+Particle Hydrodynamics) for fluid dynamics and GNN-based pipeline predictions, optimizing large-scale
+cloud architectures to support high-performance simulations in real-time manufacturing environments.
+ Integrated cutting-edge algorithms such as Physics-Informed Neural Networks (PINN) for burr fracture
+prediction and AI-enhanced chip heat dissipation models, significantly improving the efficiency and accuracy
+of simulations for industrial applications in edge computing and cloud-native platforms.
+--- Page Break ---
+2 / 5
+Algorithm Engineer Intern at JD Technology Beijing
+Artificial intelligence and basic embodied intelligence Division 11 / 2024 –
+ Developed and implemented Vision-Language-Action (VLA) models to optimize robotic task planning and
+object manipulation in dynamic industrial environments, focusing on warehouse automation.
+ Spearheaded the creation of an atomic skill library for robotic arms, enabling modular task execution and
+improving system adaptability across multiple use cases.
+Manufacturing Quality Engineer (MQE) Intern at Apple Shenzhen ＆ America
+Audio with whole-house intelligence 02 / 2025 –
+ Collaborated with cross-functional teams to enhance signal testing and processing frameworks, ensuring
+the quality and reliability of audio devices in intelligent whole-house systems.
+ Applied advanced machine learning techniques (e.g., GNN, CNN, and PINN) to predict and detect defects in
+material processing, enabling efficient mass production and high precision in manufacturing.
+CTO at Shenzhen Institute of Innovation and Entrepreneurship Shenzhen ＆ Hong Kong
+Medical Intelligence and HKUST Startup team 07 / 2022 –
+ Secured seed round investment from Prof. Li Zexiang (HKUST) for a groundbreaking "dental cleaning
+equipment" project that integrates advanced plaque control technology with AI-driven diagnostic features,
+aimed at revolutionizing dental hygiene practices.
+ As CTO, spearheaded the development of ultrasonic vibration and digital signal detection solutions,
+contributing to the creation of an intelligent dental cleaning system that enhances cleaning efficiency and
+offers real-time diagnostic capabilities using cutting-edge AI algorithms.
+Internship at HIT National Key Laboratory of Robotics Harbin
+Medical vision Department 06 / 2021 – 02 / 2021
+ Developed a medical image semantic segmentation solution using Python and OpenCV, focusing on
+improving the accuracy and efficiency of the vision module for medical robots.
+ Conducted simulations for end-effector trajectory planning of medical robots and processed myoelectric
+signals using MATLAB, successfully optimizing the robot's motion control for medical applications.
+ACADEMIC RESEARCH
+Papers Published in Journals
+[1] J. Xue, Wenyu Liang, Yilan Xu, J.Nan, Y. Wu, and T. H. Lee, [2025]. LLM-in-the-loop variable impedance control:
+Towards safe generalized and personalized robotic interactions. [AAAI 2026].
+Highlights:
+ We introduce a novel "LLM-in-the-loop" variable impedance control framework that maps users' implicit
+natural language inputs to explicit controller parameters.
+ Our approach utilizes a large language model (LLM) to tune an energy-aware variable impedance control
+system, achieving safe, generalized, and personalized physical human-robot interactions.
+ We validate the framework through physical experiments on a 7-DoF KUKA robot (performing surface
+cleaning, ultrasound scanning, and collaborative moving), demonstrating improved safety, generalization,
+and personalization over conventional methods. (Human-Robot Interaction)
+[2] J. Nan, Pingfa Feng, Jie Xu, Feng Feng, 2024. Efficient modeling of liquid splashing via graph neural networks
+with adaptive filter and aggregator fusion. International Journal of Numerical Methods for Heat & Fluid Flow, Vol.
+34, No. 2, pp. 200-222. , published, (SCI Q1, Scopus CiteScore top 10%) [Joint work with researchers from
+Germany]
+Highlights：
+ We introduce an innovative framework to model liquid splashing dynamics using a fluid-efficient graph
+--- Page Break ---
+3 / 5
+neural network simulator (FEGNS). This model employs an adaptive filtering layer and an aggregator fusion
+strategy to optimize simulation accuracy and computational efficiency (AI for Science).
+ Our approach balances the duality between simulation accuracy and computational speed, achieving a
+30.3% improvement in simulation accuracy and a 51.6% gain in speed when compared to traditional
+computational fluid dynamics (CFD) methods.
+ We validate our model using extensive liquid splash datasets(from the German Institute and the TUM,
+demonstrating robust generalization and improved performance. The model exhibits remarkable capability
+in simulating intricate dynamics like droplet formation, detachment, and interactions among liquid particles.
+[3] J. Nan, Pingfa Feng, Jie Xu, Feng Feng, 2024. Advanced Prediction of Microfluidic Flow in Medical Pipelines
+Using Graph Neural Networks. International Journal of Numerical Methods for Heat & Fluid Flow, under review (SCI
+Q1, Scopus CiteScore top 10%) [Joint work with researchers from Germany]
+Highlights：
+ We propose a novel approach using Graph Neural Networks (GNNs) for predicting microfluidic flow
+behaviors in medical pipelines with complex geometries. (AI4S)
+ We successfully reduce computational time while maintaining high prediction accuracy, outperforming
+traditional CFD methods.
+ Extensive experiments are conducted using various microfluidic pipeline designs (from the German Institute
+and the TUM), demonstrating the model's superior performance in predicting both steady-state and transient
+flow behaviors.
+Papers Published in National Software Copyright＆National Patent
+[4] J. Nan et al. Neural Network-driven SPH Fluid Acceleration System V1.0[CP]. China: Computer Software
+Copyright, 2024, accepted, Registration number: 2024SR0821036. (1st author)
+Highlights：
+ Developed a neural network-driven SPH fluid acceleration software system that enhances computational
+speed by over 50%, enabling real-time fluid simulations in manufacturing processes, significantly reducing
+production cycle times and improving operational efficiency. (AI4E)
+ The system's adaptive filtering and aggregator fusion techniques optimize particle interactions and fluid
+dynamics, allowing for more accurate simulations in complex manufacturing scenarios (e.g., metal casting,
+injection molding), leading to decreased material waste and improved product quality.
+[5] J. Nan et al. A handling robot with an adjustable manipulator, Patent No. ZL 2019 2 1806945.7, accepted,
+License Announcement No. CN 210998673 U, 2020. (1st author)
+Highlights：
+ Designed an adjustable manipulator system for handling robots, which significantly increases flexibility in
+industrial automation tasks, improving manufacturing efficiency and precision in complex assembly lines.
+ The handling robot features a 9-degree-of-freedom control system, optimized for operating along rotary
+molds and winding modules, reducing production time and enhancing the adaptability of the robot for
+various industrial applications.
+Papers Published in International Conferencs
+[6] J. Nan, Simulation study of axial ultrasonic vibration micro-milling of TC4 titanium alloy based on ABAQUS,
+ICCSMT 2023 (Sino-Germany) , Oral Report＆Letter.
+Highlights：
+ Conducted a detailed simulation study on axial ultrasonic vibration micro-milling of TC4 titanium alloy using
+the ABAQUS platform, focusing on cutting forces, heat distribution, and chip formation.
+ Results demonstrated that ultrasonic vibration significantly reduces cutting forces and heat generation
+--- Page Break ---
+4 / 5
+during milling, leading to improved tool life, surface finish, and dimensional accuracy compared to
+conventional milling techniques.
+[7] J. Nan, Design and Research on Heating System and Hot Bending Process of 3D Glass Bending Machine Using
+ABAQUS and Particle Swarm Optimization, ICCSMT 2023 (Sino-Germany), Oral Report＆Letter.
+Highlights：
+ Optimized the heating system of a 3D glass bending machine by conducting simulations using ABAQUS,
+focusing on the effects of temperature, pressure, and time on the glass stress during the bending process.
+ Applied Particle Swarm Optimization (PSO) to refine the power distribution of the heating rods, achieving
+improved temperature uniformity and bending accuracy in the glass forming process.
+ Utilized ABAQUS UMAT subroutine for secondary development to model the creep compliance of glass,
+transforming it into PRONY series for relaxation modulus and conducting molding experiments to validate
+optimized process parameters.
+Working Papers
+[7] Jie Xu, J. Nan, Pingfa Feng, Feng Feng, Physics-Informed Neural Networks for Burr Fracture Prediction in 3D
+Elastic Structures,To be soon submitted.[Joint work with researchers from German Research Institute]
+Highlights：
+ Proposed a Physics-Informed Neural Network (PINN) model to predict burr fracture behavior in 3D elastic
+structures, achieving high accuracy in fracture prediction.(AI4S)
+ The model incorporates differential equations as part of the loss function, embedding physical constraints
+directly into the neural network, which significantly improves prediction accuracy and reduces the error
+compared to FEM simulations.
+ The PINN model reduces inference time to less than 1 s, compared to FEM solving time of 18 s, making it
+highly efficient for real-time fracture prediction and optimization in manufacturing processes.
+[8] J. Nan, Jie Xu, Pingfa Feng, Feng Feng, Graph Neural Network-Enhanced Chip Heat Dissipation Simulation for
+PCB Components with Multi-Phase Solids and Fluids, To be soon submitted.[Joint work with researchers from
+Hisilicon]
+Highlights：
+ Utilized GNNs to enhance the simulation of conjugate heat transfer in multi-phase solid-fluid systems,
+specifically for PCB components, achieving efficient thermal simulations.(AI4S)
+ The GNN model predicts temperature distribution in chip and heatsink systems with less than 1.2% error
+while reducing computational time, significantly improving overall simulation performance.
+ This approach optimizes the thermal design of PCB components, reducing heat accumulation and ensuring
+stable chip performance under extreme working conditions.
+[9] An Atomic Skill I ibrary Construction Method Combined Embodiment VLA and VLP for Industrial Applications, To
+be soon submitted.[Joint work with Jingdong]
+Highlights：
+ Proposed a data-driven Atomic Skill Library construction method based on Vision-Language Models (VLP
+and VLA), which decomposes complex industrial tasks into reusable atomic skill modules (e.g., "grasp,"
+"move," "place"), significantly enhancing the adaptability and efficiency of robots in dynamic environments.
+ Achieved high success rates in task execution with reduced data requirements in industrial scenarios,
+validating the effectiveness of the method, and realized zero-shot sim-to-real transfer through reinforcement
+learning, ensuring robustness and scalability in real-world industrial applications.
+HONORS & SCHOLARSHIPS
+--- Page Break ---
+5 / 5
+International Level
+ Hong Kong Government Scholarship (HKPFS,The highest honor of the Hong Kong Doctorate degree)
+ the President's Scholarship of NUS（PGF, The highest honor for a doctor in Singapore）
+ Outstanding Paper Award for the paper “J. Nan, Simulation study of axial ultrasonic vibration micro-milling of
+TC4 titanium alloy based on ABAQUS, ICCSMT 2023 (Sino-Germany) , Oral Report＆Letter” (About 5% of more
+than 100 papers)
+National Level
+ National Scholarship by the Ministry of Education of China, 2020 (Undergraduate, 1/151)
+ Hong Kong Johnson Electric Scholarships by HK, 2019 (Undergraduate, about top 5%)
+ Hong Kong Johnson Electric Scholarships by HK, 2021 (Undergraduate, about 5%)
+ Annual Project Plan Second Prize of the National Ministry of Industry and Information Technology, 2019
+ Product Manager Certification of Shenzhen Institute of Entrepreneurship and Innovation, 2022
+University Level
+ Outstanding Graduate of Harbin institute of technology, 2022 (Undergraduate, about 1%)
+ Graduation Thesis (Excellent) of Harbin institute of technology, 2022 (Undergraduate, about 1%)
+ First-Class People's Scholarships of Harbin institute of technology(Awarded six times, about 3%)
+ Top Ten Academic Assistance Volunteers of Harbin institute of technology, 2020,2021(top 10)
+ Outstanding Youth League Cadre of Harbin institute of technology 2020,2022(about 3%)
+ Excellent Student Cadre of Harbin institute of technology, 2019 (about 3%)
+ Outstanding Student of Harbin institute of technology, 2019 (about 3%)
+ Excellent Graduation Thesis of Huazhong University of Science and Technology, 2020 (About 5%)
+ Award for voluntary service in the fight against COVID-19, 2020
+ Comprehensive Second Prize of Tsinghua University, 2024 (About 5%)
+ 13th Student Innovation Leader Training Camp: Organization Excellence Award of Tsinghua University,
+2022 (About 1%)
+ Rural Revitalization Practice Silver Award of Tsinghua University, 2024 (About 10%)
+ Huawei Joint training Scholarship of Shenzhen (About 10%)
+--- Page Break ---
+
+========================================
+
+--- Extracting from 简历-南锦瑶-2025.11.8.pdf ---
+个人信息
+姓 名：南锦瑶 个人网站：http://nanjinyao.github.io
+电 话：18909160231 (WeChat) 邮 箱：nanjinyao@163.com
+教育背景
+新加坡国立大学(NUS) 新加坡
+校长奖学金，ISEP 学者，博士生 2025 年 9 月-至今
+ 机器人灵巧操作与图神经网络、强化学习、模仿学习（VLA）
+ 导师团队与研究方向：Prof. Lee Tongheng （新加坡工程院院士）Co: Prof. Sam Ge(新加坡工程院院士，IEEE fellow)
+清华大学(THU) 深圳&北京
+数据与信息研究院 机械(智能制造)＆华为联培 工程硕士 2022 年 9 月-2025 年 7 月
+ GPA 排名：GPA 3.9/4，首届官方华为校企联培生奖学金，优秀毕业生
+ 核心课程：制造过程数值模拟技术(4.0)、文献检索与论文写作(4.0)、制造技术(4.0)、智能制造技术基础(4.0)、数值分
+析、现代控制理论(4.0)等
+ 导师团队与研究方向：冯平法教授/冯峰副教授/徐捷博士，方向为数值模拟与深度学习加速，与华为技术有限公司
+(HUAWEI)道元班首批官方联合培养硕士兼算法工程师，方向为“基于图神经网络的光滑粒子法(SPH)飞溅加速模
+拟”，成果已以第一作者发表一篇 SCI-Q1 论文，一篇文章在审，两篇文章在投，授权一篇国家软件著作权。
+哈尔滨工业大学(HIT) 哈尔滨＆深圳
+机电工程学院 机械设计制造及其自动化 工学学士 2018 年 9 月-2022 年 7 月
+ GPA 排名：1/ 151，国家奖学金
+ 核心课程：微积分(94)、代数与几何(94.5)、数值分析(95.2)、C++程序设计、信号测试与处理(96.3)、 传热学(99)、
+流体力学(92.7)、材料力学(99.2)、 大学物理(95)(96.5)、 大学化学(95)、机电系统控制(95.5)、电子技术及实验(93.5)、
+机械系统动力学(94)、机械工程材料及成形(96.6)、互换性与测量技术(94)、特种加工(93.4)、机械制图(94.4)、机械
+设计及课设＆实验(98)、机械制造课设(90)、机械原理(97.9)等
+ 导师团队与研究方向：韩振宇教授，方向为智能数控机床及加工技术
+竞赛及奖励
+国际级：2025 香港政府奖学金（HKPFS，全港 300 人），2025 新加坡校长奖学金 PGF（10 人/2 年一评）
+国家级： 2020.12 国家奖学金 (1/151)，国家专利一项，国家软件著作权一项
+省/市级： 2 次香港德昌电机奖学金(全校 10 个)，2019 年度项目计划二等奖(工信部级)(小组第 3 名)
+校 级： 2022.04 优秀毕业生(1/151) 2022.06 毕业论文(优秀)（机器人干纤维缠绕机主要机械结构设计，最高分）
+6 次一等人民奖学金，前 3%）、2020 十佳学业帮辅志愿者（前 10 名）、2020 抗疫志愿服务者（组织 200+人次）
+2 次五四优秀团干部 / 2 次五四优秀团员 / 2 次优秀学生干部 / 2 次优秀学生（前 5%）
+2025.5 清华大学优秀毕业生（前 2%）、清华大学海外实践-校金奖（外联＆宣传，2025 年）
+2024.10 清华大学校级综合二等奖 (前 5%)、2022 清华大学第十三届学生创新领袖训练营-组织优秀 2024
+清华大学乡村振兴实践银奖(副队长)、清华大学 SIGS 专业实践一等奖（第一名，2025 年）
+实习经历
+新加坡科技局 Singapore Agency for Science, Technology and Research 新加坡（2025.08-）
+ 技能：机器人灵巧操作与图神经网络、强化学习、模仿学习（VLA）
+华为云 架构 lab＆德/俄研所＆海思 深圳(2023.06-2024.06)
+ 描述：在华为云架构 Lab 联培期间，参与了基于图神经网络（GNN）与流体仿真软件（CFD）的交叉研究，探索如
+何利用深度学习预测流体行为并优化图形学算法。已发表一篇顶刊 SCI 一区论文，第二篇 SCI 一区论文（under review）。
+ 技能：深度学习，图神经网络，CFD 仿真，科学绘图与写作
+京东科技 基础具身智能实验室 北京(2024.12-2025.2)
+ 描述：开发并实现视觉 - 语言 - 动作（VLA）模型，以优化动态工业环境中的机器人目标操作；专注于仓库自动化，
+
+--- Page Break ---
+在创建原子技能库以实现机器人手臂的模块化任务执行方面进行了创新，提高了跨多个应用程序的系统适应性。
+苹果（Apple） 制造质量管理工程师 深圳(2025.2-)
+ 描述：跨职能团队合作，增强智能家居系统中的信号测试和处理框架；应用先进的机器学习技术（如 GNN、CNN 和
+PINN）预测和检测材料加工中的缺陷，实现制造中的高效批量生产和高精度。
+HIT 机器人国家重点实验室 哈尔滨(2021.02-2021.06)
+ 描述：负责医学图像语义分割的研究，使用 Python 和 OpenCV 进行图像处理，并使用 MATLAB 进行肌电信号处理
+和医疗机器人轨迹规划仿真。
+ 技能：Python, OpenCV, MATLAB, 医疗机器人, 肌电信号处理
+项目经历
+闭环式语言模型变量阻抗控制：迈向安全、通用且个性化的机器人交互 AAAI 2026
+ 我们提出了一种新颖的“嵌入式语言模型”变量阻抗控制框架，该框架能够将用户隐含的自然语言输入转化为明确的
+控制器参数。
+ 我们的方法利用一个大型语言模型（LLM）来优化一个具有能源感知功能的可变阻抗控制系统，从而实现安全、通用
+且个性化的物理人机交互。
+ 成果“J. Xue, Wenyu Liang, Yilan Xu, J.Nan, Y. Wu, and T. H. Lee, [2025]. LLM-in-the-loop variable impedance
+control:Towards safe generalized and personalized robotic interactions. [AAAI 2026]”
+基于数据驱动深度学习的光滑粒子法飞溅加速模拟 IJNMHFF（2023.6-至今）
+ 提出一种基于自适应滤波和聚合器融合的高效图神经网络(FEGNS)，用于模拟液体的碰撞和飞溅，使用液体飞溅数据
+训练模型，实现端到端学习液滴形成机制，生成细致逼真的液滴效果，具有良好的泛化能力,同时计算速度明显提升。
+ 成 果 “ Efficient Modelling of Liquid Splashing via Graph Neural Networks with Adaptive Filter and
+Aggregator Fusion”已被数值模拟领域顶刊《International Journal of Numerical Methods for Heat and
+Fluid Flow》（SCI-Q1, IF: 前 10%）接收（第一作者）。
+ 成果 ”神经网络驱动的 SPH 流体加速系统”已获得国家软件著作权授权（第一作者）。
+物理数据驱动对管道预测＆毛刺断裂＆芯片散热问题的 AI 求解器优化 华为云（2023.6-至今）
+ 华为云 AI 求解器预研组 head，主要解决了管道预测、毛刺断裂及芯片散热等拓扑优化和预测效率低下。开发 GNN
+和 PINN 求解器，成功提升了预测精度和计算效率，成果一篇文章在审，两篇文章在投，牵头多项 AI4S toB 端合作。
+3D 玻璃热弯机加热系统设计及热弯工艺研究（深圳市技术攻关项目） 深圳＆德国(2022.10-2022.12)
+ 科研助理，优化 3D 玻璃热弯机加热系统，测量玻璃蠕变柔量，并且转化为松弛模量的 PRONY 级数形式，进行 3D
+玻璃仿真，关键参数对应力的影响，进行模压实验，得到优化工艺参数。ABAQUS 子程序 UMAT 二次开发，录制宏
+二次开发，数值模拟设计和实验设计验证，嵌套粒子群算法优化工艺。
+ 成果在国际仿真会议 ICCSMT2023(Sino-Germany)，进行一项 oral report 和 poster（第一作者）。
+基于 ABAQUS 的 TC4 钛合金轴向超声振动微铣削仿真 深圳＆德国(2022.11-2022.12)
+ 科研助理，对轴向超声振动铣削钛合金进行了三维力热耦合仿真，分析施加轴向超声振动铣削和普通铣削在温度场，
+切削力大小及曲线特征上的区别，给出了延长刀具寿命，利于断屑，显著降低切削力，增加稳定性的解决方案。
+ 成果在国际仿真会议 ICCSMT2023(Sino-Germany)，进行一项 oral report 和 poster（第一作者）。
+深圳创新创业学院培训营 深圳(2022.08-至今)
+ 首席技术官(CTO)，为“牙齿清洁设备”项目获得了李泽湘教授(HKUST)的种子轮投资。将国际领先的以控斑为导向
+的高效牙齿清洁技术与智能诊断功能结合。我提供了超声波振动和数字信号检测解决方案并被学院认证为产品经理。
+火箭发动机机器人数控纤维缠绕系统 哈尔滨(2021.9-2022.12)
+ 军工型号项目，负责机械结构部分和电气系统控制，设计了一套机器人沿回转模具作业的 9 自由度高柔性缠绕方案，
+包含主轴模块和缠绕模块；进行模态分析，优化验证结构；设计纱箱张力控制系统并响应仿真，验证了控制系统稳准
+快的特性；编写测地线缠绕动画和轨迹规划验证了机构及运动解算的正确性。成果获得毕业论文(优秀)（机器人干纤
+--- Page Break ---
+维缠绕机主要机械结构设计，机电学院最高分），并授权一项国家专利（第一作者）。
+月球营地机器人（工信部大学生年度项目） 工信部（2021.09-2022.06）
+ 队长，负责机器人避障和转向部分的结构仿真；应力分析和模态分析验证结构合理性。项目获得年度项目校级二等奖，
+最终以“优秀”成绩提前一年结题。
+仿生蛇形机器人（工信部大学生创新创业计划） 工信部（2021.2-2022.2）
+ 工信部大创，组长，对蛇形仿生机器人在柔顺关节处提出合理改进，在避免奇异状态下实现预期的运动；计算电机布
+局，用 arduino-c++参与开发板编程，完成增材制造，和电机安装，产品实物全周期制造，验证可完成预期功能。
+基于原子技能库构建方法的工业应用研究 京东科技基础具身智能部（2024.12-2025.2）
+ 提出一种基于视觉 - 语言模型（VLP）的数据驱动的原子技能库构建方法（结合具身视觉 - 语言 - 动作（VLA）），
+将复杂工业任务分解为可重用的原子技能模块（如 “抓取”“移动”“放置”），显著提高了任务在动态工业场景
+中的适应性和执行效率；通过增强执行中的泛化性并减少数据要求，验证了该方法的有效性，实现了零样本模拟到真
+实的迁移强化学习，在实际工业应用中具有鲁棒性和可扩展性。该项目为与京东的合作项目，论文待提交。
+主要志愿&课外活动
+清华大学(THU) 国际研究生实践团队赴新加坡和印度尼西亚外部联络与宣传负责人 2025 年 1 月
+ 作为外部联络与宣传负责人，通过组织访问南洋理工大学、新加坡国立大学、新加坡科技研究局（A*STAR）以及印
+尼中兴等当地企业，促进国际合作与交流；与新加坡清华校友会建立联系，以增加学术、产业和文化交流机会；通过
+设计宣传材料和主导媒体报道，协调团队的宣传工作，显著提高了项目的知名度和影响力。该实践旨在拓宽参与者的
+全球视野，增强他们未来职业发展的综合能力。
+清华大学(THU) 团支书 / 驻京联络人 / 心协骨干/ 学生创新领袖训练营筹备组、班长 2023 年 9 月-至今
+ 主要负责班团集体建设以及活动报道，以及学生活动选题规划。
+ 心协负责导学建设，外联资源。
+清华大学(THU) 乡村振兴 赴西咸新区支队(副队长) 2024 年 1 月
+ 针对陕西省西咸新区太平镇“一宅两房”和“土地银行”利民政策进行学术走访调研，以及新闻运营和宣传。
+ 项目获得清华大学乡村振兴实践银奖以及深圳研究生院二等奖。
+哈尔滨工业大学(HIT) 校十佳学业品牌-学雷锋小组讲师团负责人/团支书、学习委员、班长 2018.09-2022.06
+ 主要校十佳学业品牌运营和校级学业培优及帮辅，以及竞赛活动选题规划。
+中科大（2020 春 C9 交换）、北京大学（2021 夏交换）、哈工大(深圳)（2021 春交换） 代表团学生负责人
+技能兴趣&自我评价
+英语：CET4 \ CET6 \ 雅思 6.5
+计算机：Python，MATLAB （华为认证资质），Solidworks，AutoCAD，Comsol，ABAQUS,ANSYS, Visio 绘图等
+自我评价：勇于探索、知难不畏、乐观开朗、团结协作
+--- Page Break ---
+
+========================================
+
