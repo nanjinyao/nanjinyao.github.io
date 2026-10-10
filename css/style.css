@@ -333,6 +333,20 @@ section {
     text-align: left;
 }
 
+.company-logo-stack {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+}
+
+.company-logo-stack .inst-logo {
+    width: 45px;
+    max-height: 28px;
+    object-fit: contain;
+    border-radius: 0;
+}
+
 /* Override previous logo sizing for table cells if needed */
 .inst-logo {
     max-height: 40px;
